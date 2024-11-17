@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-import { View, Text } from 'react-native'
-import React from 'react'
-
-const home = () => {
-  return (
-    <View>
-      <Text>home</Text>
-    </View>
-=======
 import { View, Text, Image, ScrollView } from 'react-native'
 import React from 'react'
 import { SafeAreaView } from 'react-native-safe-area-context'
@@ -29,7 +19,7 @@ const home = () => {
       <Post2 />
       </ScrollView>
     </SafeAreaView>
->>>>>>> 5602f6a (First Commit)
+
   )
 }
 
