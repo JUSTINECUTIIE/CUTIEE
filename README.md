@@ -29,4 +29,4 @@ Cuttie Mobile App.
 
 # Walkthrough
  
-
+[Cuttie App Walkthrough](https://youtu.be/W0CdEHEIZdo)
