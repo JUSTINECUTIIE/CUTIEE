@@ -1,12 +1,3 @@
-# CUTTIE 
-TechFolio Mobile App.
-
-# Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
-=======
 # Cuttie
 Cuttie Mobile App.
 
@@ -15,7 +6,6 @@ Cuttie Mobile App.
 * Stories
 * Engagement Tools
 * Profile Picture Update
->>>>>>> 5602f6a (First Commit)
 
 # Course Overview
 * Basic React Native Components
