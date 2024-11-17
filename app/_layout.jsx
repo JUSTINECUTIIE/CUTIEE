@@ -18,6 +18,10 @@ const Mainlayout= () =>{
             "Poppins-Regular": require("../assets/fonts/Poppins-Regular.ttf"),
             "Poppins-SemiBold": require("../assets/fonts/Poppins-SemiBold.ttf"),
             "Poppins-Thin": require("../assets/fonts/Poppins-Thin.ttf"),
+<<<<<<< HEAD
+=======
+            "Lobster-Regular": require("../assets/fonts/Lobster-Regular.ttf"),
+>>>>>>> 5602f6a (First Commit)
           });
           
           useEffect(() => {
@@ -36,9 +40,20 @@ const Mainlayout= () =>{
     
     
     return (
+<<<<<<< HEAD
         <Stack>
             <Stack.Screen name='index'options={{headShown:false}}/>
         </Stack>
+=======
+      <>
+        <Stack>
+            <Stack.Screen name='index'options={{headerShown:false}}/>
+            <Stack.Screen name='(tabs)'options={{headerShown:false}}/>
+            <Stack.Screen name='(auth)'options={{headerShown:false}}/>
+        </Stack>
+        <StatusBar backgroundColor="black" style="light"/>
+      </>
+>>>>>>> 5602f6a (First Commit)
     )
 } 
 

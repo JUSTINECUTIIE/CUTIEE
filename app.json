@@ -1,8 +1,15 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "Alumni",
     "slug": "Alumni",
     "scheme":"Alumni",
+=======
+    "name": "Cuttie",
+    "slug": "Cuttie",
+    "scheme": "Cuttie",
+
+>>>>>>> 5602f6a (First Commit)
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
